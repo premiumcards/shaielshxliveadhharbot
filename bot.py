@@ -1569,11 +1569,6 @@ if __name__ == "__main__":
     
     print("🤖 Bot is now LIVE.")
     
-
-
-
-if __name__ == "__main__":
-    print("Bot is now LIVE.")
     while True:
         try:
             bot.infinity_polling(timeout=10, long_polling_timeout=5)
