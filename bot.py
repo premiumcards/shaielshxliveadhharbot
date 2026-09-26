@@ -323,7 +323,7 @@ def prompt_join_channels(chat_id):
                 except Exception as ex:
                     print(f"⚠️ [JOIN CHECK] Export invite link failed for {channel}: {ex}")
                     url = f"https://t.me/c/{str(channel).replace('-100', '')}"
-         except Exception as e:
+        except Exception as e:
             print(f"⚠️ [JOIN CHECK] Error getting chat info for {channel}: {e}")
             url = f"https://t.me/ShaileshXlive" # Fallback to developer
                 
