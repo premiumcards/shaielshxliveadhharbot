@@ -1,0 +1,22 @@
+{
+  "total_views": 0,
+  "today_date": "",
+  "today_views": 0,
+  "success_count": 0,
+  "fail_count": 0,
+  "mode": "free",
+  "default_credits": 1,
+  "users": [
+    {
+      "chat_id": 8739519477,
+      "first_name": "Shailesh",
+      "username": "ShaileshXlive",
+      "joined": "2026-09-25 00:00:00",
+      "credits": 999
+    }
+  ],
+  "cracked_history": [],
+  "today_users": [],
+  "cooldown_seconds": 60,
+  "max_concurrent_tasks": 15
+}

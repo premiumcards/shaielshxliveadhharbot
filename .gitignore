@@ -1,0 +1,17 @@
+# Sensitive 
+.env 
+.env.bak 
+*.env 
+__pycache__/ 
+*.pyc 
+venv/ 
+env/ 
+cracked_aadhar/ 
+cracked_history.txt 
+cracked_history_report.txt 
+users_list.txt 
+errors.log 
+cleanup.log 
+bot.log 
+temp_captcha_*.png 
+BULK_USER_DATA/ 
